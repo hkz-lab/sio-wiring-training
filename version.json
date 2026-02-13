@@ -7,7 +7,7 @@
   "contact": "hkz.lab@*****.com",
   "notes": "Bug fixes.",
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "level": "info",
     "title": "Announcement",
     "message": "New lesson content will be updated soon.",
