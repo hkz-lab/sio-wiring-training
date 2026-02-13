@@ -1,10 +1,10 @@
 {
   "latest": "1.0.1",
   "minSupported": "1.0.0",
-  "maintenance": true,
+  "maintenance": false,
   "maintenanceMessage": "Maintenance is ongoing. Please download the new version after maintenance.",
   "downloadUrl": "https://hkz-lab.github.io/sio-wiring-training/download.html",
-  "contact": "hkz.lab@your-domain.com",
+  "contact": "hkz.lab@*****.com",
   "notes": "Bug fixes.",
   "announcement": {
     "enabled": true,
