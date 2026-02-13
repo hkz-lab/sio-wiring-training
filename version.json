@@ -5,17 +5,13 @@
   "maintenanceMessage": "Maintenance is ongoing. Please download the new version after maintenance.",
   "downloadUrl": "https://hkz-lab.github.io/sio-wiring-training/download.html",
   "contact": "hkz.lab@your-domain.com",
-  "bugReportEmail": "hkz.lab@your-domain.com",
-  "bugReportSubject": "[SiO Wiring] Bug report",
-  "notes": "New released.",
-
+  "notes": "Updated.",
   "announcement": {
     "enabled": true,
     "level": "info",
     "title": "Announcement",
-    "message": "New software released.",
-    "updatedAt": "2026-02-13",
-    "linkText": "Open download page",
-    "linkUrl": "https://hkz-lab.github.io/sio-wiring-training/download.html"
+    "message": "testing.",
+    "url": "",
+    "buttonText": "Details"
   }
 }
